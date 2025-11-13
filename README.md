@@ -73,4 +73,3 @@
 
 ---
 
-If you want, I can also **add a “Getting Started” section with instructions on running the Python program**, so your README is fully ready for GitHub. Do you want me to do that?
