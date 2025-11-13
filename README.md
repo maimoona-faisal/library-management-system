@@ -82,12 +82,3 @@ The system performs input validation for login, book limit, and overdue checks.
 
 Super administrators have exclusive rights for managing administrators.
 
-Future Improvements
-
-Add database support (e.g., SQLite or MySQL) for better data management.
-
-Implement password hashing for security.
-
-Add GUI interface using Tkinter or PyQt.
-
-Include email notifications for overdue books.
