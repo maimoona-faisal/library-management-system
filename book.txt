@@ -1,0 +1,13 @@
+The Silent Patient;B0001;Alex Michaelides;
+Where the Crawdads Sing;B0002;Delia Owens;
+The Night Circus;B0003;Erin Morgenstern;
+Circe;B0004;Madeline Miller;
+Little Fires Everywhere;B0005;Celeste Ng;
+The Seven Husbands of Evelyn Hugo;B0006;Taylor Jenkins Reid;
+Dune;B0007;Frank Herbert;
+The Goldfinch;B0008;Donna Tartt;
+Normal People;B0009;Sally Rooney;
+A Man Called Ove;B0010;Fredrik Backman;
+The Book Thief;B0011;Markus Zusak;
+To Kill a Mockingbird;B0012;Harper Lee;
+The Alchemist;B0013;Paulo Coelho;

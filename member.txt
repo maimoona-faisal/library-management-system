@@ -1,0 +1,5 @@
+Sara Kim;sara@gmail.com;
+Paul Walker ;paul@gmail.com;
+Ayumi Nakamura;ayumi@gmail.com;
+Maria Rossi;maria@gmail.com;
+Miguel Torres;miguel@gmail.com;
